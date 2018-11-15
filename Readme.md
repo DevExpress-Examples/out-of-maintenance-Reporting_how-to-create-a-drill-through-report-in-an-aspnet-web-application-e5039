@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/E5039/Default.aspx) (VB: [Default.aspx](./VB/E5039/Default.aspx))
+* [Default.aspx.cs](./CS/E5039/Default.aspx.cs) (VB: [Default.aspx](./VB/E5039/Default.aspx))
+* [Products.aspx](./CS/E5039/Products.aspx) (VB: [Products.aspx.vb](./VB/E5039/Products.aspx.vb))
+* [Products.aspx.cs](./CS/E5039/Products.aspx.cs) (VB: [Products.aspx.vb](./VB/E5039/Products.aspx.vb))
+* [CategoriesReport.cs](./CS/E5039/Reports/CategoriesReport.cs) (VB: [CategoriesReport.vb](./VB/E5039/Reports/CategoriesReport.vb))
+* [ProductsReport.cs](./CS/E5039/Reports/ProductsReport.cs) (VB: [ProductsReport.vb](./VB/E5039/Reports/ProductsReport.vb))
+<!-- default file list end -->
 # How to create a drill-through report in an ASP.NET web application
 
 
