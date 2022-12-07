@@ -40,6 +40,6 @@ Namespace E5039
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected pcProductReport As Global.DevExpress.Web.ASPxPopupControl.ASPxPopupControl
+		Protected pcProductReport As Global.DevExpress.Web.ASPxPopupControl
 	End Class
 End Namespace
